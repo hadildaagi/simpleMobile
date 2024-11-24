@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">simple_auth_app</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_product_description">ProductDescription</string>
+    <string name="title_activity_add_product">AddProduct</string>
+    <string name="title_activity_update_product">UpdateProduct</string>
+</resources>
